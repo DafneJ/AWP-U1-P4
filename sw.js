@@ -40,6 +40,7 @@ self.addEventListener('install', event => {
             `${ROOT_PATH}/`, 
             `${ROOT_PATH}/index.html`, 
             `${ROOT_PATH}/js/app.js`,
+            `${ROOT_PATH}/css/styles.css`,
             `${ROOT_PATH}/pages/suma.html`,
             `${ROOT_PATH}/pages/resta.html`,
             `${ROOT_PATH}/pages/multiplicacion.html`,
